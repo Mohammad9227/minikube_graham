@@ -1,4 +1,4 @@
 #!/bin/bash
 open /Applications/Docker.app
-sleep 10
-minikube start --driver=docker --nodes 2
+sleep 60
+mkn2dk
